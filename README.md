@@ -6,7 +6,8 @@ Want To Add Service Account To The Google Groups
 Doing It One By One Might Be Difficult And Time Consuming.
 
 
-Follow This Steps And Start Your Process Early.
+
+Follow This Steps And Start Your Process Early And Cooy Or Clone Your Teamdrive:-
 
 
 #create new directory
