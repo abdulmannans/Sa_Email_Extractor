@@ -1,5 +1,5 @@
 # Sa_Email_Extractor
-Extract Service Account Emails From Json File And Save It To Csv
+Extract Service Account Emails From Multiple Json File And Save It To Single Csv
 
 Are You Stuck With Folderclone Process
 Want To Add Service Account To The Google Groups
